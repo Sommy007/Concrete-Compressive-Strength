@@ -17,4 +17,14 @@ Target (Output):
 Concrete compressive strength (MPa)
 
 Features (Input):
-Cement (kg/m3), Blast Furnace Slag (kg/m3), Water (kg/m3), Superplasticizer (kg/m3), Fly Ash (kg/m3), Coarse Aggregate (kg/m3), Fine Aggregate (kg/m3) and Age (day)
+Cement (kg/m³), Blast Furnace Slag (kg/m³), Water (kg/m³), Superplasticizer (kg/m³), Fly Ash (kg/m³), Coarse Aggregate (kg/m³), Fine Aggregate (kg/m³) and Age (day)
+
+
+DATA SOURCE
+This project uses a publicly available dataset that follows standard academic citation practices.
+
+- **Dataset Name:** Concrete Compressive Strength  
+- **Source:** UCI Machine Learning Repository  
+- **Author:** I-Cheng Yeh  
+- **Year:** 1998  
+- **DOI / Reference:** https://doi.org/10.24432/C5PK67 
