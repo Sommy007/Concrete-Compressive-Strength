@@ -39,6 +39,7 @@ The project follows a structured machine learning workflow:
 
 KEY FINDINGS:
 - Higher water content reduces concrete strength
+- Many concrete mixtures were produced without supplementary materials like Blast Furnace Slag, Fly Ash, and Superplasticizer
 - Age is the most influential factor in determining concrete compressive strength while Fly Ash is the least component
 - The relationship between the features and target is nonlinear
 - Ensemble models perform significantly better than linear models for this dataset
